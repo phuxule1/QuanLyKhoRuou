@@ -39,6 +39,13 @@
                 right: 10px;
                 top: 18px;
             }
+            <!--
+            .top-right {
+               position: absolute;
+               right: 10px;
+                top: 18px;
+            }
+            -->
 
             .content {
                 text-align: center;
