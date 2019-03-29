@@ -14,11 +14,11 @@ class users_seeder extends Seeder
     {
         DB::table('users')->insert([
             [
-                'name' => 'Nhi',
-                'email' => '128bc@gmail.com',
+                'name' => 'Buu',
+                'email' => 'lebuu997@gmail.com',
                 'password' => bcrypt('1'),
-                'SoDienThoai' => '0337247773',
-                'DChi' => '82 nguyễn xí',
+                'SoDienThoai' => '0981493997',
+                'DChi' => 'đường 147 quận 9 tphcm',
                 'MaCV' => 'NV',
                 'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')
