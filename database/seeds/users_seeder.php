@@ -21,6 +21,7 @@ class users_seeder extends Seeder
                 'DChi' => 'đường 147 quận 9 tphcm',
                 'MaCV' => 'NV',
                 'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
+                
                 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')
             ],
             [
